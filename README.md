@@ -38,11 +38,15 @@
 ### ✦ traces left behind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PradyXiii&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&count_private=true" />
+  <img src="https://img.shields.io/badge/status-summoning-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/located-somewhere-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/fueled%20by-curiosity-D97706?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyXiii&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true" />
+  <img src="https://img.shields.io/badge/%E2%9C%A6-still%20building-1f1f2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%9C%B2-in%20the%20dark-4b0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%88%9E-years%20lurking-000000?style=for-the-badge" />
 </p>
 
 <p align="center">
