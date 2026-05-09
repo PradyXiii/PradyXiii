@@ -1,248 +1,372 @@
+<!--
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║     embers rise in the night sky                                 ║
+  ║     HOMRA binds us, fire and soul                                ║
+  ║     we burn together, we fall as one                             ║
+  ║     the red king's throne is built on coals                      ║
+  ║                                                                  ║
+  ║     [1] HOMRA archives · Bar Bashō · undated                     ║
+  ║                                                                  ║
+  ╚═══════════════════════════════════════════════════════════════╝
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:000000&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,30:8B0000,60:FF4500,100:FFD700&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
 </p>
 
-<h1 align="center">✦   ✦   ✦</h1>
+<h1 align="center">紅 &nbsp;·&nbsp; HOMRA &nbsp;·&nbsp; 火</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=720&height=45&lines=conjuring+systems+in+the+dark;%CE%94+moves+while+you%27re+still+thinking;the+market+is+a+tarot+deck+i%27ve+memorized;vol+crush+is+just+sleeping+dragons;the+veil+between+alchemy+and+alpha;all+models+are+wrong+%E2%80%94+mine+is+just+smug;if+you+tell+them+how+it+works%2C+it+stops+working" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=FF4500&center=true&vCenter=true&width=720&height=45&lines=touch+the+model+and+lose+a+finger;the+desk+doesn%27t+sleep+%E2%80%94+it+smolders;vibe-coded+for+30+days%2C+scorched+everything+else;%CE%94+neutral%2C+%CE%98+positive%2C+ego+negative;jarvis-tier+%E2%80%94+confirmed%2C+classified%2C+contained;the+fire+decides+when+the+fire+decides;if+you+tell+them+how+it+works%2C+it+stops+working" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PradyXiii&label=witnesses&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/PradyXiii?label=followers&style=flat-square&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=PradyXiii&label=witnesses&color=DC143C&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/PradyXiii?label=clan&style=flat-square&color=DC143C" />
   <img src="https://img.shields.io/badge/uptime-24%2F7-006400?style=flat-square" />
-  <img src="https://img.shields.io/badge/edge-classified-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/touch%20warning-DO%20NOT-DC143C?style=flat-square" />
 </p>
 
-<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
+<p align="center"><sub>🔥━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔥</sub></p>
+
+### ✦ who
+
+> *trader. learner. vibe-coder. red.*
+
+i harness AI-augmented code to build systems that trade with precision and adapt on the fly. under the hood, my autonomous strategies burn through market inefficiencies while i maintain that calm, controlled demeanor of someone who knows exactly what they're capable of. there's a smug satisfaction in watching a system i conjured in mere weeks operate with the kind of dangerous elegance that makes others wonder if you're playing a different game entirely.
+
+### ✦ the workshop
+
+- 🔥 30 days of vibe coding to build a beast that reads the tape alone
+- ⚡ lives in the shadows, sharp edges, burns through market data like fire
+- 🜂 autonomous daemon that sleeps when the bell rings, wakes when chaos calls
+- ☼ Jarvis-tier execution engine — heavy, warm, and cuts like a blade
+- ❂ coded hot; it thinks faster than you can blink at the order book
+- ⟁ touches the market once and leaves ash; no hesitation, pure signal
+
+<p align="center"><sub>⚡────────────────────────────────────────────────────────────⚡</sub></p>
 
 ### ✦ the terminal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PradyXiii/PradyXiii/main/assets/terminal.svg" alt="shadow_book terminal" />
+  <img src="https://raw.githubusercontent.com/PradyXiii/PradyXiii/main/assets/terminal.svg" alt="red_desk terminal" />
 </p>
 
-<p align="center"><i>the model sleeps when the market sleeps</i></p>
+<p align="center"><i>the desk doesn't sleep — it smolders</i></p>
 
-<p align="center"><sub>┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ ☽ ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</sub></p>
+<p align="center"><sub>✦┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄✦</sub></p>
 
-### ✦ the agents are thinking
+### ✦ the daemon is thinking
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PradyXiii/PradyXiii/main/assets/thinking.svg" alt="agents thinking" />
+  <img src="https://raw.githubusercontent.com/PradyXiii/PradyXiii/main/assets/thinking.svg" alt="daemon thinking" />
 </p>
 
 <p align="center"><i>a partial list. the others have learned not to be observed.</i></p>
 
-<p align="center"><sub>· ░░░░░░░░░░░░░░░░░░░░░░░░░░░ ⊹ ░░░░░░░░░░░░░░░░░░░░░░░░░░░ ·</sub></p>
-
-### ✦ the workshop
-
-> *some projects are louder when kept quiet.*
-
-- 🤖 a machine that reads the tape so I don't have to
-- 📡 it hasn't slept in months — it places its own bets
-- 🧬 backtested across years, deployed in shadow
-- 🜲 strategies, signals, edge — all classified
-- 🜂 small daemons that whisper when the weather turns
-- 🜄 a few things I'm not allowed to talk about yet
-
-### ✦ live status
-
-<p align="center">
-  <img src="https://img.shields.io/badge/system-AUTONOMOUS-8a2be2?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/uptime-24%2F7-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ml%20brain-ONLINE-4b0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/risk%20gate-OPEN-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/kill%20switch-ARMED-DC143C?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%CE%94-NEUTRAL-4b0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%CE%93-CONTAINED-4b0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%CE%98-POSITIVE-4b0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%CE%BD-LONG-4b0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%CF%81-FLAT-4b0082?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/sharpe-%E2%96%88%E2%96%88%E2%96%88%E2%96%88-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/sortino-%E2%96%88%E2%96%88%E2%96%88%E2%96%88-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/max%20DD-%E2%96%88%E2%96%88%E2%96%88%E2%96%88-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/win%20rate-%E2%96%88%E2%96%88%E2%96%88%E2%96%88-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/capital-%E2%96%88%E2%96%88%E2%96%88%E2%96%88-555555?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GCP-asia--south1-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-24%2F7-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-co--pilot-D97706?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/git--ops-LIVE-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center"><sub>╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌ ⊹ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</sub></p>
+<p align="center"><sub>🜂══════════════════════════════════════════════════════════════🜂</sub></p>
 
 ### ✦ the strategy deck
 
+> *twelve strategies. each one named for what it does to the air around it.*
+
 | codename | greek | edge | status |
 |---|:---:|---|:---:|
-| **NIGHTSHADE** | Δ | harvests volatility crush in earnings decay | `LIVE` |
-| **OUROBOROS** | Γ | self-feeding loop: gamma scalp bleeds gamma | `EVOLVING` |
-| **BLACKSTAR** | Θ | consumes dark pools when liquidity contracts | `DORMANT` |
-| **KESTREL** | ρ | strikes correlation reversals at inflection | `LIVE` |
-| **WRAITH** | Δ | feeds on bid-ask ghosts in circuit breaks | `REDACTED` |
-| **CHARON** | Γ | extracts spread death from stale quotes | `ARCHIVED` |
-| **OBSIDIAN** | Θ | vega long when fear hits peak momentum | `LIVE` |
-| **VORTEX** | ν | spins vol-of-vol into mean reversion trades | `EVOLVING` |
-| **RAVEN** | ρ | scavenges tail risk when crowding peaks | `LIVE` |
-| **NEMESIS** | Δ | reverses momentum at predator-prey thresholds | `DORMANT` |
-| **CRUCIBLE** | Γ | distills theta from the volatility furnace | `LIVE` |
-| **LEVIATHAN** | Θ | hunts convexity in the deep smile abyss | `REDACTED` |
+| **KINDLING** | Δ | coaxes volatility clusters until ignition spreads | `LIVE` |
+| **EMBER** | Γ | extracts heat from overnight gaps and morning fades | `LIVE` |
+| **SCORCH** | Θ | burns through reversion zones with concentrated fire | `LIVE` |
+| **BLAZE** | ρ | catches momentum when correlation breaks down | `DORMANT` |
+| **CINDER** | ν | smolders on residual vol after cascade events | `KINDLING` |
+| **INFERNO** | Δ | unleashes when micro-structure liquidity evaporates | `LIVE` |
+| **PYRE** | Γ | stacks risk until crowding singularity ignites it | `FORGED` |
+| **SMOLDER** | Θ | feeds slow-burn edges until vol surface cracks | `LIVE` |
+| **CRIMSON** | ρ | hunts dislocation spreads in red-hot dislocations | `CLASSIFIED` |
+| **PHOENIX** | ν | resurrects alpha from ashes of failed regimes | `DORMANT` |
+| **IGNITE** | Δ | strikes when bid-ask symmetry combusts under load | `KINDLING` |
+| **FORGE** | Γ | hammers volatility into shaped trading edge metal | `LIVE` |
 
-<p align="center"><sub>✦ ════════════════════════════════════════════════════════════ ✦</sub></p>
+<p align="center"><sub>━┄━┄━┄━┄━┄━┄━┄━┄━┄❂┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄</sub></p>
 
 ### ✦ the pipeline
 
 ```mermaid
 graph LR
-    A([the listening]) --> B([the anomaly detector])
-    A --> C([the sieve])
-    B --> D{alert?}
-    D -->|yes| E([the sentinel])
-    D -->|no| C
-    E --> F([the gatekeeper])
-    C --> G[[the oracle]]
-    G --> F
-    F --> H{{risk check}}
-    H -->|pass| I([the hand])
-    H -->|fail| J([the tail hedge])
-    J --> I
-    I --> K([the watcher])
-    K --> L{drift?}
-    L -->|yes| M([the circuit breaker])
-    L -->|no| N([the mirror])
-    M --> O[[pause &amp; review]]
-    N --> G
-    K --> N
+    A(["the kindling"]) --> B(["the sieve"])
+    B --> C{"the spark"}
+    C -->|anomaly| D(["the watch"])
+    C -->|clean| E(["the ash"])
+    E --> F[[the flame]]
+    F --> G{signal?}
+    G -->|weak| H(["the mirror"])
+    G -->|strong| I{{the hearth}}
+    I -->|risk OK| J(["the strike"])
+    I -->|risk HIGH| K(["the dousing"])
+    K --> D
+    J --> L(["the firebreak"])
+    L --> M(["the smolder"])
+    M --> H
+    H --> N(["the hand"])
+    N --> O((execute))
+    O --> D
+    D --> P{circuit_OK?}
+    P -->|breach| K
+    P -->|nominal| A
 
-    classDef mystical fill:#1a0033,stroke:#8a2be2,stroke-width:2px,color:#fff
-    classDef brain fill:#2d0052,stroke:#a855f7,stroke-width:2px,color:#fff
-    classDef gate fill:#3d1063,stroke:#c084fc,stroke-width:2px,color:#fff
-    classDef alert fill:#5a0d80,stroke:#e9d5ff,stroke-width:2px,color:#fff
+    classDef mystical fill:#1a0000,stroke:#DC143C,stroke-width:2px,color:#fff
+    classDef brain fill:#4b0000,stroke:#FF4500,stroke-width:2px,color:#fff
+    classDef gate fill:#8B0000,stroke:#FFD700,stroke-width:2px,color:#fff
+    classDef alert fill:#DC143C,stroke:#FFD700,stroke-width:2px,color:#fff
 
-    class A,B,C,E,I,J,K,N mystical
-    class G,O brain
-    class F,H,M gate
-    class D,L alert
+    class A,B,E,J,L,M,N mystical
+    class F brain
+    class I gate
+    class K,D alert
 ```
 
-<details>
-<summary>📒 <b>session log</b> — open at your own risk</summary>
+<p align="center"><sub>✦✧✦✧✦✧✦✧✦✧✦✧✦✧火✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦</sub></p>
 
-```text
-| time         | op     | sym        | Δ      | qty    | pnl      | note           |
-|--------------|--------|------------|--------|--------|----------|----------------|
-| 09:15:32.145 | OPEN   | ████       | +0.32  | 250    | +1,240   | edge confirmed |
-| 09:47:18.892 | HEDGE  | ██-██████  | -0.18  | -100   | ████     | weather shift  |
-| 10:22:05.521 | ADJUST | ████████   | +0.45  | 150    | -380     | vol crush      |
-| 10:58:41.334 | CLOSE  | ██-████    | -0.28  | -250   | +2,105   | reversion      |
-| 11:33:09.776 | OPEN   | ████       | +0.16  | 400    | ████     | noise          |
-| 12:11:47.003 | STOP   | ███████    | -0.52  | -200   | -1,650   | tail caught    |
-| 12:45:22.418 | ROLL   | ██-██████  | +0.24  | 300    | +895     | █████          |
-| 13:19:55.687 | ADJUST | ████████   | -0.31  | -150   | ████     | regime change  |
-| 13:56:14.141 | CLOSE  | ████       | +0.41  | 200    | +3,420   | edge confirmed |
-| 14:28:33.509 | HEDGE  | ██-████    | -0.19  | -100   | -245     | cool down      |
-| 15:03:47.825 | OPEN   | ███████    | +0.38  | 350    | ████     | reversion      |
-| 15:27:12.693 | CLOSE  | ██-██████  | -0.27  | -350   | +1,565   | noise          |
-```
-
-> session: ████  |  pnl: ████  |  sharpe: ████  |  ░░░░░░░░░ all classified ░░░░░░░░░
-
-</details>
-
-<p align="center"><sub>• ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ •</sub></p>
-
-### ✦ rules of engagement
-
-> *the desk has rules. they are not negotiable.*
-
-```yaml
-rule_001: never reveal the edge
-rule_002: the model is right until proven wrong, twice
-rule_003: every position has an exit; not every exit has a position
-rule_004: hedge before you need to
-rule_005: the market does not care about your conviction
-rule_006: ████████████████████████████   # classified
-rule_007: ████████████████████████████   # classified
-rule_008: in case of doubt, smaller
-rule_009: backtests lie loudly; live trades lie quietly
-rule_010: silence compounds faster than capital
-rule_011: ████████████████████████████   # eyes only
-rule_∞:   the desk closes when the desk decides
-```
-
-### ✦ currently consulting
+### ✦ burn rate
 
 <p align="center">
-  <img src="https://img.shields.io/badge/oracle-arxiv.org%2Fq--fin-A41E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/oracle-the%20black--scholes%20equation-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/oracle-claude--opus--4.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/oracle-the%20order%20book-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/oracle-%E2%88%9E%20backtest%20logs-4b0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/vibe--coded-30%20DAYS-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/prompts-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/iterations-%E2%88%9E-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/claude%20convos-COUNTLESS-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pair--programmer-SOLO-1a0000?style=for-the-badge" />
 </p>
 
-### ✦ achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/temperature-SUSTAINED-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cooldown-NEVER-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ignition-ARMED-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/combustion-STABLE-B22222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/uptime-24%2F7-006400?style=for-the-badge" />
+</p>
 
-| sigil | name | when |
-|:---:|---|:---:|
-| 🜲 | first profitable backtest | _year of the wolf_ |
-| 🜂 | first live deployment | _spring of the rooster_ |
-| 🜁 | first model that disagreed with me (and was right) | _summer of the dragon_ |
-| 🜄 | first 100% systematic week | _autumn of the snake_ |
-| ✦ | first time the kill switch fired by itself | `███` |
-| 𓂈 | first signal i didn't understand but trusted anyway | `███` |
-| ☽ | first night i didn't watch the screen | `███` |
-| ☾ | first time the desk made more than the trader | `███` |
+<p align="center">
+  <img src="https://img.shields.io/badge/autonomy-100%25-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/intervention-0-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/decisions%2Fsec-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-B22222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jarvis--tier-CONFIRMED-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ml--brain-ONLINE-FF4500?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/proximity-HOT-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/contact-SCORCH-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/intent-CLASSIFIED-1a0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/threat--tier-SCORCH-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/touch--warning-DO%20NOT-000000?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%CE%94-NEUTRAL-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CE%93-CONTAINED-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CE%98-POSITIVE-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CE%BD-LONG-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%CF%81-FLAT-FFD700?style=for-the-badge" />
+</p>
+
+<p align="center"><sub>╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌⟁╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</sub></p>
+
+### ✦ 30 days of fire
+
+> *one month. zero shortcuts. one autonomous desk.*
+
+**days 1-6 · kindling**
+- tick data flowing, raw CSV becomes vector
+- first correlation charts, "wait, is this real?"
+- infrastructure skeleton: redis, postgres, the plumbing
+
+**days 7-12 · catching**
+- LSTM model trains on yesterday's screams
+- backtest engine runs, equity curve climbs (too fast?)
+- first signal fires; position opens; heart rate spikes
+
+**days 13-18 · forging**
+- model talks back: attention weights show the logic
+- drawdown tests — live it, then calm it
+- feature engineering becomes meditation; breakthrough at 3am
+
+**days 19-24 · burning**
+- flip the switch: paper becomes real
+- first $10k drawdown; kill switch untested, then tested
+- monitor blinks red; trader is awake; machine is learning
+
+**days 25-30 · tempering**
+- equity curve smooth; volatility tamed
+- alerts quiet; system breathes
+- handover: the desk runs itself; the trader becomes keeper of the forge
+
+### ✦ build log
+
+```text
+day 01  ·  23:47  ·  first ember: strategy sketch, data pipeline ignited
+day 03  ·  02:14  ·  kindling caught—OHLCV feeds streaming, backtest infra live
+day 05  ·  19:33  ·  feature forge burning: momentum, volatility, decay metrics
+day 07  ·  03:22  ·  prototype model trained, inference latency scorched
+day 09  ·  21:08  ·  backtest #1 ran hot—drawdown tamed, Sharpe glowing
+day 11  ·  01:47  ·  it spoke back: model predicted micro-reversals, 58% win rate
+day 13  ·  18:55  ·  breakthrough session: calendar spreads ignited alpha leak
+day 15  ·  04:09  ·  rebalance tuning, slippage model blazing, Monte Carlo passed
+day 17  ·  22:31  ·  blaze peak: 3-month backtest 47% CAGR, volatility ember-low
+day 19  ·  02:44  ·  paper trade live, first scorch marks: latency, position sizing
+day 21  ·  20:16  ·  live micro-lot deployed, fear in the chest, kill switch wired hot
+day 23  ·  03:33  ·  first profitable day: +0.34% on $5k, ember holding steady
+day 25  ·  19:22  ·  scaled to real capital, volatility spike — discipline burned
+day 27  ·  01:18  ·  kill switch fired once (liquidation error), rebuilt in 90 mins
+day 30  ·  16:47  ·  month close: +12.7% net, the desk decides: algo stays live
+```
+
+<p align="center"><sub>🔥━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔥</sub></p>
 
 ### ✦ invocation
 
 ```python
-# the daemon awakens at 09:14:00 IST
-# it sleeps when the bell rings; it dreams in between
-# do not interrupt it. it remembers.
+from homra        import RedKing, Hearth
+from shadow_book  import Oracle, Hand, Mirror
+from greeks       import Δ, Γ, Θ, ν, ρ
+from kindling     import spark, breathe
+from market       import Weather, Gate
+from systems      import Logger, Sentinel
 
-from shadow_book   import Oracle, Gatekeeper, Hand, Mirror
-from greeks        import Δ, Γ, Θ, ν, ρ
-from regime        import detect, hedge, breathe
+# initialize the infernal apparatus
+oracle   = Oracle(confidence=0.███, max_drawdown=0.0███)
+hand     = Hand(kelly_cap=0.███, leverage=0.██)
+mirror   = Mirror(latency=0.0██, slippage=0.0███)
+hearth   = Hearth(volatility_threshold=0.███, rebalance_freq=300)
+sentinel = Sentinel(drawdown_limit=0.0███, vix_kill_switch=45)
 
-oracle = Oracle(model="█████", confidence=0.███)
-gate   = Gatekeeper(max_drawdown=0.0███, kelly_cap=0.███)
-hand   = Hand(broker="████████████", slippage=0.0███)
-mirror = Mirror(reflects=True, lies=False)
 
-while market.open:
-    weather = detect.regime(market.tape)
-    signal  = oracle.read(market.tape, weather)
-    if gate.permits(signal, exposures=(Δ, Γ, Θ, ν, ρ)):
-        hand.execute(signal)
-        mirror.observe(signal)
-    sleep(market.next_tick)
+def ignite():
+    """awaken the daemon. feed it market blood."""
 
-# the desk closes when the desk decides.
+    logger = Logger("AUTONOMOUS_CRUCIBLE")
+    market = Weather.connect()
+    gate   = Gate.summon()
+
+    spark()      # initialize the neural flame
+    breathe()    # synchronize with market heartbeat
+
+    logger.info("▓▓▓ RED DAEMON IGNITING ▓▓▓")
+    logger.info(f"Greeks loaded: {Δ}, {Γ}, {Θ}, {ν}, {ρ}")
+
+    king = RedKing(oracle, hand, mirror, hearth)
+    king.calibrate()
+
+    # the desk closes when the desk decides.
+    while market.open:
+        try:
+            weather = market.detect()
+            if weather.volatility > hearth.volatility_threshold:
+                continue
+
+            oracle.read(weather)
+            prediction = oracle.divine()
+
+            if not gate.permits(prediction):
+                continue
+
+            # do not interrupt the flame.
+            position     = hand.execute(prediction, mirror.slippage)
+            observations = mirror.observe(position, weather)
+            king.evolve(observations)
+
+            if sentinel.trigger(observations):
+                break
+
+        except Exception as flame:
+            # touch and you burn.
+            logger.warn(f"flame fluctuation: {flame}")
+            hearth.cool()
+
+    logger.info("▓▓▓ DAEMON QUENCHED ▓▓▓")
+    return king.report()
+
+
+if __name__ == "__main__":
+    ignite()
+```
+
+### ✦ daemon.toml
+
+```toml
+# daemon.toml — the red desk
+# "the red flame consumes all equilibrium"
+
+[identity]
+name      = "the_red_desk"
+codename  = "HOMRA_INFERNO"
+version   = "7.3.1"
+clan      = "HOMRA"            # we are the red clan
+
+[ignition]
+ignition_time = "09:29:00"
+market_open   = "09:30:00"
+warmup        = 60             # seconds to preheat the engines
+
+[combustion]
+heartbeat_ms           = 147   # sacred rhythm of the flame
+max_concurrent_signals = ████
+oracle_refresh         = "ash" # consult the ashes for truth
+
+[risk]
+max_drawdown      = 0.███
+kelly_cap         = 0.███
+max_position_size = █████
+leverage          = 0.███      # even fire needs restraint
+
+[hearth]
+greeks_thresholds = { delta = 0.███, gamma = 0.███, vega = 0.███ }
+vol_floor         = 0.███
+vol_ceiling       = 0.███      # the flame must not burn too bright
+
+[kill_switch]
+auto_arm           = true
+drawdown_trigger   = 0.███
+manual_override    = "HOMRA_COMMAND"
+
+[observers]
+logging_level   = "CRIMSON"
+mirror_enabled  = true
+alerts          = ["slack_channel_red", "internal_fire_beacon"]
+```
+
+### ✦ rules of engagement
+
+```yaml
+rule_001: never reveal the edge — the market devours what is known
+rule_002: position size scales with conviction, never with fear
+rule_003: a drawdown is a test; panic is the failure
+rule_004: the pattern burns brighter just before it collapses — exit before ash
+rule_005: diversification is cowardice; concentration is destiny
+rule_006: momentum ignites, but fire consumes its own fuel — know when to let it die
+rule_007: ████████████████████████████   # eyes only
+rule_008: correlation breaks at the edges; that is where the heat lives
+rule_009: rebalance without sentiment; the algos feel nothing, neither should you
+rule_010: a spread that works today burns tomorrow — adapt or become cinder
+rule_011: ████████████████████████████   # classified
+rule_012: volatility is the breath of the market; hold when it gasps
+rule_013: ████████████████████████████   # classified
+rule_014: the fire chooses its victims — respect its hunger, do not fight it
+rule_∞:   the fire decides when the fire decides
 ```
 
 ### ✦ the manifesto
 
-> *six principles. all earned the hard way.*
+> *eight principles. all earned in the forge.*
 
 1. **silence compounds** — every disclosed strategy decays toward parity
-2. **risk is real, return is hope** — size the first, pray the second
-3. **the model is the trader; you are the maintainer** — know the difference
-4. **drawdown is tuition** — pay it or stop trading
-5. **the market is a teacher who fails everyone eventually** — be early to the test
-6. **all edge is conditional** — the regime that fed you will starve you
+2. **the flame chooses** — you don't pick the strategy; the strategy picks you
+3. **embers need no wind** — superior returns exist without broadcasting method
+4. **scorch before they notice** — strike when volatility still sleeps
+5. **ash remembers all losses** — every mistake feeds the next fire hotter
+6. **the hearth holds its warmth** — capital discipline outlasts any market cycle
+7. **kindle only what burns** — chase only edges with infinite half-lives ahead
+8. **calm fire kills slowest** — patience is the most lethal weapon
+
+<p align="center"><sub>╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌ ⊹ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</sub></p>
 
 ### ✦ the ledger
 
@@ -252,26 +376,28 @@ while market.open:
 
 **watching**
 
-- ████ ▲▼ across 4 timeframes
-- ███████ vol surface
-- the gap between bid and intent
-- the stories no one is telling
-- the regime that has not arrived yet
-- the model's second-guesses
 - the silence between ticks
+- order flow that whispers before it screams
+- the ember that refuses to die at support
+- volatility's breath before the inferno
+- where the big accounts are smoldering
+- the ash patterns left by liquidations
+- micro-structures that flicker at the edges
+- what the algos can't see in the smoke
 
 </td>
 <td valign="top" width="50%">
 
 **ignoring**
 
-- crypto twitter
-- youtube charlatans
-- the news cycle
-- backtests that look too good
-- the loudest voice in the room
+- crypto twitter evangelists
 - anyone selling courses
+- the loudest voice in the room
 - my own conviction
+- youtube charlatans with lambo thumbnails
+- the news cycle's manufactured drama
+- what coinbase trends says is happening
+- the feeling that i'm missing out
 
 </td>
 </tr>
@@ -283,31 +409,35 @@ while market.open:
 
 | status | tome | author |
 |:---:|---|---|
-| `read · re-read · re-read` | _Options, Futures, and Other Derivatives_ | Hull |
-| `read` | _Advances in Financial Machine Learning_ | López de Prado |
-| `read` | _Trading and Exchanges_ | Harris |
-| `studying` | _Volatility Trading_ | Sinclair |
-| `studying` | _Active Portfolio Management_ | Grinold & Kahn |
-| `archived` | _The Master and Margarita_ | Bulgakov |
-| `dog-eared` | _Tao Te Ching_ | Lao Tzu |
-| `███████` | `███████████████████████████` | `███████` |
+| `studying` | _Options, Futures, and Other Derivatives_ | Hull |
+| `dog-eared` | _Advances in Financial Machine Learning_ | López de Prado |
+| `read · re-read` | _Volatility Trading_ | Sinclair |
+| `studying` | _Trading and Exchanges: Market Microstructure for Practitioners_ | Harris |
+| `read` | _Active Portfolio Management_ | Grinold & Kahn |
+| `forging` | _Designing Machine Learning Systems_ | Chip Huyen |
+| `studying` | _Building LLM-Powered Applications_ | Chip Huyen |
+| `read · re-read` | _The Pragmatic Programmer_ | Hunt & Thomas |
+| `dog-eared` | _Meditations_ | Marcus Aurelius |
+| `███████` | `███████████████████████` | `███████` |
 
-### ✦ the todo
+### ✦ achievements
 
-- [x] read the entire options pricing literature
-- [x] backtest 7+ years of data
-- [x] deploy live with real capital
-- [x] survive the first regime change
-- [x] build the kill switch (and trust it)
-- [ ] survive the second regime change
-- [ ] write the book ~~(no)~~
-- [ ] retire (definition unclear)
-- [ ] ████████████████████████
-- [ ] ████████████████████████
+| sigil | name | when |
+|:---:|---|:---:|
+| 🔥 | first profitable backtest across three markets | _the day flames caught on dead wood_ |
+| ⚡ | model predicted reversal before the candle closed | _night the system spoke without asking_ |
+| 🜲 | live capital deployed at market open | _when the vault doors finally opened_ |
+| ✦ | portfolio delta stayed positive through circuit breaker | `███` |
+| 🜂 | algorithm rewrote its own entry logic | _first time the desk made a choice i didn't_ |
+| ☼ | sharpe breached 2.0 across all timeframes | _day the sun burned hotter than expected_ |
+| 🔥 | kill switch armed itself without human command | `███` |
+| ❂ | caught a tail before institutional flow noticed | _moment the pattern recognized itself_ |
+| ☥ | system accumulated 40% monthly returns in simulation | `███` |
+| ✶ | the model stopped asking for permission | _when silence meant it was finally listening_ |
 
-<p align="center"><sub>┄ ☾ ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ ☾ ┄</sub></p>
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-### ✦ tools of the trade
+### ✦ the forge
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,gcp,git,github,vscode,docker,fastapi,redis,postgres" />
@@ -320,40 +450,133 @@ while market.open:
   <img src="https://img.shields.io/badge/xgboost-006400?style=for-the-badge" />
   <img src="https://img.shields.io/badge/lightgbm-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/optuna-3F50A0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/claude-D97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-<p align="center"><sub>─ ☾ ─────────────────────────────────────────────────── ☾ ─</sub></p>
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🔥 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
 ### ✦ the numbers
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradyXiii&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradyXiii&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradyXiii&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PradyXiii&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradyXiii&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PradyXiii&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PradyXiii&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PradyXiii&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PradyXiii&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PradyXiii&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PradyXiii&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PradyXiii&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PradyXiii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PradyXiii&theme=redical&hide_border=true&bg_color=0a0000&color=FF4500&line=DC143C&point=FFD700" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PradyXiii&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PradyXiii&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
-<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
+<p align="center"><sub>✦┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄✦</sub></p>
+
+### ✦ now burning
+
+```
+♫  NOW BURNING
+
+🔥  Digital Flames                          YOASOBI                       4:32
+🔥  Crimson Algorithm                       Hiroyuki Sawano               3:18
+🔥  Reverb Spiral                           Rezz                          5:01
+🔥  Midnight Liquidation                    Lo-fi Girl                    4:45
+🔥  Neon Collapse (Extended Mix)            MYTH & ROID                   6:12
+🔥  Recursive Dream State                   Aphex Twin                    4:08
+🔥  Market Pulse                            Mili                          3:56
+
+queued: ████████████  ·  shuffle: off  ·  on repeat for: 30 days
+```
+
+<p align="center"><sub>🔥▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔥</sub></p>
+
+<div align="center">
+
+### ⚠️ WANTED ⚠️
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>FUGITIVE ALERT — INTERPOL CLASS-S</b></td>
+  </tr>
+  <tr>
+    <td><b>codename</b></td>
+    <td><code>THE RED DESK</code></td>
+  </tr>
+  <tr>
+    <td><b>affiliation</b></td>
+    <td><code>HOMRA — Red Clan Division</code></td>
+  </tr>
+  <tr>
+    <td><b>specialization</b></td>
+    <td><code>autonomous algorithmic trading</code></td>
+  </tr>
+  <tr>
+    <td><b>operational status</b></td>
+    <td><code>ACTIVE — PERPETUAL</code></td>
+  </tr>
+  <tr>
+    <td><b>threat classification</b></td>
+    <td><code>SCORCH</code></td>
+  </tr>
+  <tr>
+    <td><b>last verified sighting</b></td>
+    <td><code>03:00 — terminal station, location unknown</code></td>
+  </tr>
+  <tr>
+    <td><b>critical weakness</b></td>
+    <td><code>the bell at 15:30 — responds predictably</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>⛔ DO NOT ENGAGE ⛔ APPROACH ONLY WITH FIRE SUPPRESSION PROTOCOL ⛔</b></td>
+  </tr>
+</table>
+
+*it burns brighter at market close, and twice as hot when the bid-ask spread whispers its ancient song.*
+
+</div>
+
+<p align="center"><sub>⚡────────────────────────────────────────────────────────────⚡</sub></p>
+
+### ✦ if you touch it
+
+<pre align="center">
+            ╔═══════════════════════════╗
+            ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+            ║  ▓▓▓╔══════════════╗▓▓▓  ║
+            ║  ▓▓▓║   ⚡ DANGER   ║▓▓▓  ║
+            ║  ▓▓▓╚═╤═════════╤═╝▓▓▓  ║
+            ║  ▓▓▓▓▓║▀▀▀▀▀▀▀▀▀║▓▓▓▓▓  ║
+            ║  ▓▓▓▓▓║   🔥    ║▓▓▓▓▓  ║
+            ║  ▓▓▓▓▓║▄▄▄▄▄▄▄▄▄║▓▓▓▓▓  ║
+            ║  ▓▓▓╔═╧═════════╧═╗▓▓▓  ║
+            ║  ▓▓▓║ DO NOT TOUCH ║▓▓▓  ║
+            ║  ▓▓▓╚═══════════════╝▓▓▓  ║
+            ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+            ╚════════════════════════════╝
+</pre>
+
+- **touch it and you'll burn.** not metaphorically. the system doesn't forgive carelessness.
+- **copy it, modify it, think you understand it?** you're feeding yourself to something that'll reduce you to ash.
+- **reverse-engineer this and you'll find out why they call it a railgun.** fair warning.
+- **this code remembers everything you do to it.** not forgiving. not kind. just fire.
+- **walk away. seriously.** some things are meant to stay untouched. this is one of them.
+
+> *what a damn waste of time.*
+
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ☼ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
 ### ✦ the void
 
@@ -362,33 +585,26 @@ while market.open:
 </p>
 
 <details>
-<summary>⚠️ <b>do not open</b></summary>
+<summary>🔥 <b>the red king's note</b></summary>
 
-```
-the pattern emerges only when you stop looking.
-your edge is someone else's noise.
-the market knows you're watching.
-it always has.
-```
+> strength without burden is weakness. the sword of damocles hangs not above a king, but within him. we burn not to destroy — we burn because flame demands no apology. join us.
 
 </details>
 
 <details>
-<summary>🔮 <b>the prophecy</b></summary>
+<summary>⚠️ <b>damocles down</b></summary>
 
-```
-╔═══════════════════╗
-║   THE MAGICIAN    ║
-║  ─────────────    ║
-║  ∴     ∴     ∴    ║
-║ ∴   ○ ∴ ○   ∴     ║
-║  ∴  ╱ ╲ ╱ ╲  ∴    ║
-║   ∴ ╲___╱ ∴       ║
-║      REVERSAL     ║
-║   your profit is  ║
-║    their exit     ║
-╚═══════════════════╝
-```
+> one day, the sword falls, and all the flames turn to ash.
+
+</details>
+
+<details>
+<summary>📜 <b>HOMRA bylaws</b></summary>
+
+1. the king stands at the center; the clan orbits without flinching
+2. questions are answered in silence or flame — choose wisely
+3. blood spilled in the bar stays in the bar; all debts are paid in the morning
+4. fire recognizes fire; everything else is just kindling
 
 </details>
 
@@ -410,7 +626,7 @@ it always has.
 <details>
 <summary>😶 absolutely sure</summary>
 
-> okay. but you didn't hear it from me.
+> the seventh king lights the way. shibuya, 2012.
 
 </details>
 
@@ -429,17 +645,19 @@ every trade is a conversation with chaos.
 only the patient hear its answer.
 
 if you are reading this, you are already inside.
-welcome.
+welcome to HOMRA. we burn together.
 -->
 
 ---
 
 <p align="center"><i>"if you tell them how it works, it stops working."</i></p>
 
-<p align="center"><sub>[1] redacted internal memo · quant division · 2023 · classification: <b>EYES ONLY</b></sub></p>
+<p align="center"><sub><i>thirty days burned. the market still bleeds red. what a damn waste of code.</i></sub></p>
+
+<p align="center"><sub>[1] HOMRA archives · classification: ASH ONLY · 2026</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b0082,100:1a0033&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,40:FF4500,80:8B0000,100:1a0000&height=120&section=footer" />
 </p>
 
-<p align="center"><sub><i>you scrolled all the way down. that means something.</i></sub></p>
+<p align="center"><sub><i>you made it this far. guess you're curious what happens when the fire stops burning.</i></sub></p>
