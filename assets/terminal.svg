@@ -19,35 +19,35 @@
   <circle cx="16" cy="16" r="5" fill="#ff5f56"/>
   <circle cx="36" cy="16" r="5" fill="#ffbd2e"/>
   <circle cx="56" cy="16" r="5" fill="#27c93f"/>
-  <text x="80" y="22" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#FFD700" letter-spacing="1">TERMINAL :: red_desk :: 24/7</text>
-  <circle cx="760" cy="16" r="4" fill="#FF4500">
+  <text x="80" y="22" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#FFFFFF" letter-spacing="1">TERMINAL :: red_desk :: 24/7</text>
+  <circle cx="760" cy="16" r="4" fill="#FF1744">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
   </circle>
-  <text x="772" y="20" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FF4500">LIVE</text>
+  <text x="772" y="20" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#FF1744">LIVE</text>
   <g clip-path="url(#clipRow1)">
     <g>
-      <text x="0" y="70" font-family="ui-monospace, monospace" font-size="16" font-weight="bold"><tspan fill="#8B0000">   </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FFD700"> Δ </tspan><tspan fill="#FF4500">▲ +2.47</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> Γ </tspan><tspan fill="#DC143C">▼ -1.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FFD700"> Θ </tspan><tspan fill="#FF4500">▲ +0.89</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> ν </tspan><tspan fill="#DC143C">▼ -0.45</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FFD700"> ρ </tspan><tspan fill="#FF4500">▲ +3.12</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FF4500">▲ +1.67</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -2.34</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> Δ </tspan><tspan fill="#FF4500">▲ +4.56</tspan></text>
+      <text x="0" y="70" font-family="ui-monospace, monospace" font-size="16" font-weight="bold"><tspan fill="#8B0000">   </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FFFFFF"> Δ </tspan><tspan fill="#FF1744">▲ +2.47</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> Γ </tspan><tspan fill="#DC143C">▼ -1.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FFFFFF"> Θ </tspan><tspan fill="#FF1744">▲ +0.89</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> ν </tspan><tspan fill="#DC143C">▼ -0.45</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FFFFFF"> ρ </tspan><tspan fill="#FF1744">▲ +3.12</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FF1744">▲ +1.67</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -2.34</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> Δ </tspan><tspan fill="#FF1744">▲ +4.56</tspan></text>
       <animateTransform attributeName="transform" type="translate" from="800 0" to="-2000 0" dur="22s" repeatCount="indefinite"/>
     </g>
   </g>
   <g clip-path="url(#clipRow2)">
     <g>
-      <text x="0" y="118" font-family="ui-monospace, monospace" font-size="16" font-weight="bold"><tspan fill="#8B0000">   </tspan><tspan fill="#FFD700">Θ+</tspan><tspan fill="#FF4500"> ▲ +5.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#DC143C">▼ -3.67</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#FFD700"> ν </tspan><tspan fill="#FF4500">▲ +2.11</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -1.89</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> ρ </tspan><tspan fill="#FF4500">▲ +0.95</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -4.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> Δ </tspan><tspan fill="#FF4500">▲ +3.45</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -0.56</tspan></text>
+      <text x="0" y="118" font-family="ui-monospace, monospace" font-size="16" font-weight="bold"><tspan fill="#8B0000">   </tspan><tspan fill="#FFFFFF">Θ+</tspan><tspan fill="#FF1744"> ▲ +5.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#DC143C">▼ -3.67</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#FFFFFF"> ν </tspan><tspan fill="#FF1744">▲ +2.11</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -1.89</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> ρ </tspan><tspan fill="#FF1744">▲ +0.95</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -4.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> Δ </tspan><tspan fill="#FF1744">▲ +3.45</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#DC143C">▼ -0.56</tspan></text>
       <animateTransform attributeName="transform" type="translate" from="800 0" to="-2200 0" dur="28s" repeatCount="indefinite"/>
     </g>
   </g>
   <g clip-path="url(#clipRow3)">
     <g>
-      <text x="0" y="166" font-family="ui-monospace, monospace" font-size="16" font-weight="bold"><tspan fill="#8B0000">   </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> ν </tspan><tspan fill="#DC143C">▼ -2.11</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF4500">▲ +1.34</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> Θ </tspan><tspan fill="#DC143C">▼ -0.67</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF4500">▲ +4.89</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> ρ </tspan><tspan fill="#DC143C">▼ -3.45</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF4500">▲ +2.56</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFD700"> Δ </tspan><tspan fill="#DC143C">▼ -1.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF4500">▲ +3.78</tspan></text>
+      <text x="0" y="166" font-family="ui-monospace, monospace" font-size="16" font-weight="bold"><tspan fill="#8B0000">   </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> ν </tspan><tspan fill="#DC143C">▼ -2.11</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF1744">▲ +1.34</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> Θ </tspan><tspan fill="#DC143C">▼ -0.67</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF1744">▲ +4.89</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> ρ </tspan><tspan fill="#DC143C">▼ -3.45</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF1744">▲ +2.56</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#6b0000">████</tspan><tspan fill="#FFFFFF"> Δ </tspan><tspan fill="#DC143C">▼ -1.23</tspan><tspan fill="#6b0000"> · </tspan><tspan fill="#4b0000">████</tspan><tspan fill="#FF1744">▲ +3.78</tspan></text>
       <animateTransform attributeName="transform" type="translate" from="800 0" to="-2400 0" dur="34s" repeatCount="indefinite"/>
     </g>
   </g>
   <rect x="0" y="184" width="800" height="56" fill="#0a0000" stroke="#4b0000" stroke-width="1"/>
-  <text x="20" y="215" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#FFD700" letter-spacing="0.5">
-    <tspan fill="#FF4500">●</tspan><tspan fill="#FFD700"> LIVE  </tspan>
-    <tspan fill="#FF4500">●</tspan><tspan fill="#FFD700"> Δ-NEUTRAL  </tspan>
-    <tspan fill="#FF4500">●</tspan><tspan fill="#FFD700"> Θ+  </tspan>
-    <tspan fill="#FFD700">● risk: contained  </tspan>
-    <tspan fill="#FFD700">● uptime: </tspan><tspan fill="#FF4500">∞</tspan>
+  <text x="20" y="215" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#FFFFFF" letter-spacing="0.5">
+    <tspan fill="#FF1744">●</tspan><tspan fill="#FFFFFF"> LIVE  </tspan>
+    <tspan fill="#FF1744">●</tspan><tspan fill="#FFFFFF"> Δ-NEUTRAL  </tspan>
+    <tspan fill="#FF1744">●</tspan><tspan fill="#FFFFFF"> Θ+  </tspan>
+    <tspan fill="#FFFFFF">● risk: contained  </tspan>
+    <tspan fill="#FFFFFF">● uptime: </tspan><tspan fill="#FF1744">∞</tspan>
   </text>
 </svg>
