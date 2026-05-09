@@ -1,21 +1,15 @@
 <!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║     embers rise in the night sky                                 ║
-  ║     HOMRA binds us, fire and soul                                ║
-  ║     we burn together, we fall as one                             ║
-  ║     the red king's throne is built on coals                      ║
-  ║                                                                  ║
-  ║     [1] HOMRA archives · Bar Bashō · undated                     ║
-  ║                                                                  ║
-  ╚═══════════════════════════════════════════════════════════════╝
+  the model dreams in volatility.
+  backtests are fiction written by the past.
+  every trade is a conversation with chaos.
+  only the patient hear its answer.
 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,30:8B0000,60:FF4500,100:FFD700&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
 </p>
 
-<h1 align="center">紅 &nbsp;·&nbsp; HOMRA &nbsp;·&nbsp; 火</h1>
+<h1 align="center">✦   ✶   ✦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=FF4500&center=true&vCenter=true&width=720&height=45&lines=touch+the+model+and+lose+a+finger;the+desk+doesn%27t+sleep+%E2%80%94+it+smolders;vibe-coded+for+30+days%2C+scorched+everything+else;%CE%94+neutral%2C+%CE%98+positive%2C+ego+negative;jarvis-tier+%E2%80%94+confirmed%2C+classified%2C+contained;the+fire+decides+when+the+fire+decides;if+you+tell+them+how+it+works%2C+it+stops+working" />
@@ -23,12 +17,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PradyXiii&label=witnesses&color=DC143C&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/PradyXiii?label=clan&style=flat-square&color=DC143C" />
+  <img src="https://img.shields.io/github/followers/PradyXiii?label=followers&style=flat-square&color=DC143C" />
   <img src="https://img.shields.io/badge/uptime-24%2F7-006400?style=flat-square" />
   <img src="https://img.shields.io/badge/touch%20warning-DO%20NOT-DC143C?style=flat-square" />
 </p>
 
-<p align="center"><sub>🔥━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔥</sub></p>
+<p align="center"><sub>🔥━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔥</sub></p>
 
 ### ✦ who
 
@@ -124,7 +118,7 @@ graph LR
     class K,D alert
 ```
 
-<p align="center"><sub>✦✧✦✧✦✧✦✧✦✧✦✧✦✧火✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦</sub></p>
+<p align="center"><sub>✦✧✦✧✦✧✦✧✦✧✦✧✦✧🔥✧✦✧✦✧✦✧✦✧✦✧✦✧✦✧✦</sub></p>
 
 ### ✦ burn rate
 
@@ -224,7 +218,7 @@ day 30  ·  16:47  ·  month close: +12.7% net, the desk decides: algo stays liv
 ### ✦ invocation
 
 ```python
-from homra        import RedKing, Hearth
+from desk          import Crucible, Hearth
 from shadow_book  import Oracle, Hand, Mirror
 from greeks       import Δ, Γ, Θ, ν, ρ
 from kindling     import spark, breathe
@@ -249,11 +243,11 @@ def ignite():
     spark()      # initialize the neural flame
     breathe()    # synchronize with market heartbeat
 
-    logger.info("▓▓▓ RED DAEMON IGNITING ▓▓▓")
+    logger.info("▓▓▓ DAEMON IGNITING ▓▓▓")
     logger.info(f"Greeks loaded: {Δ}, {Γ}, {Θ}, {ν}, {ρ}")
 
-    king = RedKing(oracle, hand, mirror, hearth)
-    king.calibrate()
+    daemon = Crucible(oracle, hand, mirror, hearth)
+    daemon.calibrate()
 
     # the desk closes when the desk decides.
     while market.open:
@@ -271,7 +265,7 @@ def ignite():
             # do not interrupt the flame.
             position     = hand.execute(prediction, mirror.slippage)
             observations = mirror.observe(position, weather)
-            king.evolve(observations)
+            daemon.evolve(observations)
 
             if sentinel.trigger(observations):
                 break
@@ -282,7 +276,7 @@ def ignite():
             hearth.cool()
 
     logger.info("▓▓▓ DAEMON QUENCHED ▓▓▓")
-    return king.report()
+    return daemon.report()
 
 
 if __name__ == "__main__":
@@ -297,9 +291,8 @@ if __name__ == "__main__":
 
 [identity]
 name      = "the_red_desk"
-codename  = "HOMRA_INFERNO"
+codename  = "INFERNO"
 version   = "7.3.1"
-clan      = "HOMRA"            # we are the red clan
 
 [ignition]
 ignition_time = "09:29:00"
@@ -325,7 +318,7 @@ vol_ceiling       = 0.███      # the flame must not burn too bright
 [kill_switch]
 auto_arm           = true
 drawdown_trigger   = 0.███
-manual_override    = "HOMRA_COMMAND"
+manual_override    = "MANUAL_OVERRIDE"
 
 [observers]
 logging_level   = "CRIMSON"
@@ -517,7 +510,7 @@ queued: ████████████  ·  shuffle: off  ·  on repeat fo
   </tr>
   <tr>
     <td><b>affiliation</b></td>
-    <td><code>HOMRA — Red Clan Division</code></td>
+    <td><code>solo operation · undisclosed</code></td>
   </tr>
   <tr>
     <td><b>specialization</b></td>
@@ -585,26 +578,19 @@ queued: ████████████  ·  shuffle: off  ·  on repeat fo
 </p>
 
 <details>
-<summary>🔥 <b>the red king's note</b></summary>
+<summary>🔥 <b>a note left burning</b></summary>
 
-> strength without burden is weakness. the sword of damocles hangs not above a king, but within him. we burn not to destroy — we burn because flame demands no apology. join us.
-
-</details>
-
-<details>
-<summary>⚠️ <b>damocles down</b></summary>
-
-> one day, the sword falls, and all the flames turn to ash.
+> strength without burden is weakness. the work demands the work. we don't burn to be seen — we burn because it's the only honest signal.
 
 </details>
 
 <details>
-<summary>📜 <b>HOMRA bylaws</b></summary>
+<summary>📜 <b>desk rules</b></summary>
 
-1. the king stands at the center; the clan orbits without flinching
-2. questions are answered in silence or flame — choose wisely
-3. blood spilled in the bar stays in the bar; all debts are paid in the morning
-4. fire recognizes fire; everything else is just kindling
+1. the desk runs itself; the trader keeps the kindling dry
+2. silence pays better than explanation
+3. losses stay between you and the log
+4. fire recognizes fire; everything else is noise
 
 </details>
 
@@ -626,7 +612,7 @@ queued: ████████████  ·  shuffle: off  ·  on repeat fo
 <details>
 <summary>😶 absolutely sure</summary>
 
-> the seventh king lights the way. shibuya, 2012.
+> the work was the answer all along.
 
 </details>
 
@@ -643,9 +629,6 @@ the model dreams in volatility.
 backtests are fiction written by the past.
 every trade is a conversation with chaos.
 only the patient hear its answer.
-
-if you are reading this, you are already inside.
-welcome to HOMRA. we burn together.
 -->
 
 ---
@@ -654,7 +637,7 @@ welcome to HOMRA. we burn together.
 
 <p align="center"><sub><i>thirty days burned. the market still bleeds red. what a damn waste of code.</i></sub></p>
 
-<p align="center"><sub>[1] HOMRA archives · classification: ASH ONLY · 2026</sub></p>
+<p align="center"><sub>[1] internal log · classification: ASH ONLY · 2026</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,40:FF4500,80:8B0000,100:1a0000&height=120&section=footer" />
