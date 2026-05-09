@@ -29,27 +29,6 @@
 
 i build small, AI-augmented trading systems and watch them run. solo desk, autonomous strategies, end-to-end stack — feeds, models, execution, monitoring. quiet edges that survive a long time over loud ones that don't. ship, observe, adjust. say less.
 
-### ✦ the workshop
-
-- 🔴 30 days of vibe-coding to ship one desk that reads the tape on its own
-- 🔴 lives lean — small VM, sharp edges, low-latency by design
-- 🔴 daemon idles when the bell rings; wakes only for setups worth taking
-- 🔴 Jarvis-tier execution — opinionated, careful, never asks twice
-- 🔴 fast on the order book; by the time you blink, it's already adjusted
-- 🔴 one decision per setup; no hesitation, no re-litigation
-
-<p align="center"><sub>⚡────────────────────────────────────────────────────────────⚡</sub></p>
-
-### ✦ the terminal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PradyXiii/PradyXiii/main/assets/terminal.svg" alt="red_desk terminal" />
-</p>
-
-<p align="center"><i>the desk doesn't sleep — it watches.</i></p>
-
-<p align="center"><sub>✦┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄✦</sub></p>
-
 ### ✦ the daemon is thinking
 
 <p align="center">
@@ -59,27 +38,6 @@ i build small, AI-augmented trading systems and watch them run. solo desk, auton
 <p align="center"><i>a partial list. the others have learned not to be observed.</i></p>
 
 <p align="center"><sub>━══════════════════════════════════════════════════════════════━</sub></p>
-
-### ✦ the strategy deck
-
-> *twelve strategies. each one named for what it does to the order book.*
-
-| codename | greek | edge | status |
-|---|:---:|---|:---:|
-| **CRIMSON** | Δ | directional book on equity-index dispersion | `LIVE` |
-| **PRISM** | Γ | gamma scalping on overnight gaps and morning fades | `LIVE` |
-| **NEXUS** | Θ | mean-reversion on liquid names with stable funding | `LIVE` |
-| **VECTOR** | ρ | momentum carry when correlation decouples | `DORMANT` |
-| **CIPHER** | ν | residual-vol plays after liquidity events | `BUILDING` |
-| **RIPTIDE** | Δ | micro-structure capture when liquidity thins | `LIVE` |
-| **LATTICE** | Γ | risk concentration on crowded options strikes | `PAPER` |
-| **ECHO** | Θ | slow theta capture across the surface | `LIVE` |
-| **GARNET** | ρ | dislocation spreads in red-zone names | `CLASSIFIED` |
-| **NORTHSTAR** | ν | regime-resilient alpha through drawdowns | `DORMANT` |
-| **NEEDLE** | Δ | bid-ask imbalance under load | `BUILDING` |
-| **ANVIL** | Γ | shaping vol into directional edge | `LIVE` |
-
-<p align="center"><sub>━┄━┄━┄━┄━┄━┄━┄━┄━┄❂┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄━┄</sub></p>
 
 ### ✦ the pipeline
 
@@ -163,35 +121,6 @@ graph LR
 
 <p align="center"><sub>╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌⟁╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</sub></p>
 
-### ✦ the month
-
-> *one month. zero shortcuts. one autonomous desk.*
-
-**days 1–6 · plumbing**
-- tick data flowing, raw CSV becomes vector
-- first correlation charts: "wait, is this real?"
-- infrastructure skeleton: redis, postgres, the rest of the plumbing
-
-**days 7–12 · training**
-- LSTM trains on yesterday's data
-- backtest engine runs, equity curve climbs (too fast?)
-- first signal fires; position opens; heart rate spikes
-
-**days 13–18 · tuning**
-- model talks back: attention weights show the logic
-- drawdown tests — live them, then calm them
-- feature engineering becomes meditation; breakthrough at 3am
-
-**days 19–24 · going live**
-- flip the switch: paper becomes real
-- first $10k drawdown; kill switch untested, then tested
-- monitor blinks red; trader is awake; machine is learning
-
-**days 25–30 · settling**
-- equity curve smooth; volatility tamed
-- alerts quiet; system breathes
-- handover: the desk runs itself; the trader becomes the watcher
-
 ### ✦ build log
 
 ```text
@@ -213,116 +142,6 @@ day 30  ·  16:47  ·  month close: +12.7% net — desk decides: algo stays live
 ```
 
 <p align="center"><sub>🔴━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔴</sub></p>
-
-### ✦ invocation
-
-```python
-from desk        import Desk, RiskGate
-from shadow_book import Oracle, Hand, Mirror
-from greeks      import Δ, Γ, Θ, ν, ρ
-from signals     import boot, sync
-from market      import Weather, Gate
-from systems     import Logger, Sentinel
-
-# initialize the apparatus
-oracle    = Oracle(confidence=0.███, max_drawdown=0.0███)
-hand      = Hand(kelly_cap=0.███, leverage=0.██)
-mirror    = Mirror(latency=0.0██, slippage=0.0███)
-risk_gate = RiskGate(volatility_threshold=0.███, rebalance_freq=300)
-sentinel  = Sentinel(drawdown_limit=0.0███, vix_kill_switch=45)
-
-
-def wake():
-    """bring the daemon online."""
-
-    logger = Logger("AUTONOMOUS_DESK")
-    market = Weather.connect()
-    gate   = Gate.summon()
-
-    boot()       # initialize the neural core
-    sync()       # synchronize with market heartbeat
-
-    logger.info("▓▓▓ DAEMON ONLINE ▓▓▓")
-    logger.info(f"Greeks loaded: {Δ}, {Γ}, {Θ}, {ν}, {ρ}")
-
-    daemon = Desk(oracle, hand, mirror, risk_gate)
-    daemon.calibrate()
-
-    # the desk closes when the desk decides.
-    while market.open:
-        try:
-            weather = market.detect()
-            if weather.volatility > risk_gate.volatility_threshold:
-                continue
-
-            oracle.read(weather)
-            prediction = oracle.divine()
-
-            if not gate.permits(prediction):
-                continue
-
-            # do not interrupt the daemon.
-            position     = hand.execute(prediction, mirror.slippage)
-            observations = mirror.observe(position, weather)
-            daemon.evolve(observations)
-
-            if sentinel.trigger(observations):
-                break
-
-        except Exception as fault:
-            logger.warn(f"fault: {fault}")
-            risk_gate.calm()
-
-    logger.info("▓▓▓ DAEMON OFFLINE ▓▓▓")
-    return daemon.report()
-
-
-if __name__ == "__main__":
-    wake()
-```
-
-### ✦ daemon.toml
-
-```toml
-# daemon.toml — the red desk
-# "the desk has the watch."
-
-[identity]
-name      = "the_red_desk"
-codename  = "CRIMSON"
-version   = "7.3.1"
-
-[startup]
-boot_time   = "09:29:00"
-market_open = "09:30:00"
-warmup      = 60             # seconds to warm engines
-
-[loop]
-heartbeat_ms           = 147   # the rhythm
-max_concurrent_signals = ████
-oracle_refresh         = "cache" # consult the cache for truth
-
-[risk]
-max_drawdown      = 0.███
-kelly_cap         = 0.███
-max_position_size = █████
-leverage          = 0.███      # discipline first
-
-[gate]
-greeks_thresholds = { delta = 0.███, gamma = 0.███, vega = 0.███ }
-vol_floor         = 0.███
-vol_ceiling       = 0.███      # do not over-extend
-
-[kill_switch]
-auto_arm           = true
-drawdown_trigger   = 0.███
-manual_override    = "MANUAL_OVERRIDE"
-
-[observers]
-logging_level   = "CRIMSON"
-mirror_enabled  = true
-alerts          = ["slack_channel_red", "internal_red_beacon"]
-```
 
 ### ✦ rules of engagement
 
@@ -411,23 +230,6 @@ rule_∞:   the desk decides when the desk decides
 | `dog-eared` | _Meditations_ | Marcus Aurelius |
 | `███████` | `███████████████████████` | `███████` |
 
-### ✦ achievements
-
-| sigil | name | when |
-|:---:|---|:---:|
-| 🔴 | first profitable backtest across three markets | _the day the lines finally crossed_ |
-| ⚡ | model predicted reversal before the candle closed | _night the system spoke without asking_ |
-| ✦ | live capital deployed at market open | _when the vault doors finally opened_ |
-| ✶ | portfolio delta stayed positive through a circuit breaker | `███` |
-| 🔴 | algorithm rewrote its own entry logic | _first time the desk made a choice i didn't_ |
-| ☼ | sharpe breached 2.0 across all timeframes | _day the curve finally bent right_ |
-| ⚡ | kill switch armed itself without human command | `███` |
-| ❂ | caught a tail before institutional flow noticed | _moment the pattern recognized itself_ |
-| ☥ | system accumulated 40% monthly returns in simulation | `███` |
-| ✶ | the model stopped asking for permission | _when silence meant it was finally listening_ |
-
-<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
-
 ### ✦ the stack
 
 <p align="center">
@@ -475,71 +277,6 @@ rule_∞:   the desk decides when the desk decides
 </p>
 
 <p align="center"><sub>✦┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄✦</sub></p>
-
-### ✦ now playing
-
-```
-♫  NOW PLAYING
-
-🔴  Digital Pulse                            YOASOBI                       4:32
-🔴  Crimson Algorithm                        Hiroyuki Sawano               3:18
-🔴  Reverb Spiral                            Rezz                          5:01
-🔴  Midnight Liquidation                     Lo-fi Girl                    4:45
-🔴  Neon Collapse (Extended Mix)             MYTH & ROID                   6:12
-🔴  Recursive Dream State                    Aphex Twin                    4:08
-🔴  Market Pulse                             Mili                          3:56
-
-queued: ████████████  ·  shuffle: off  ·  on repeat for: 30 days
-```
-
-<p align="center"><sub>🔴▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔴</sub></p>
-
-<div align="center">
-
-### ⚠️ WANTED ⚠️
-
-<table>
-  <tr>
-    <td colspan="2" align="center"><b>FUGITIVE ALERT — INTERPOL CLASS-S</b></td>
-  </tr>
-  <tr>
-    <td><b>codename</b></td>
-    <td><code>THE RED DESK</code></td>
-  </tr>
-  <tr>
-    <td><b>affiliation</b></td>
-    <td><code>solo operation · undisclosed</code></td>
-  </tr>
-  <tr>
-    <td><b>specialization</b></td>
-    <td><code>autonomous algorithmic trading</code></td>
-  </tr>
-  <tr>
-    <td><b>operational status</b></td>
-    <td><code>ACTIVE — PERPETUAL</code></td>
-  </tr>
-  <tr>
-    <td><b>threat classification</b></td>
-    <td><code>RED-LINE</code></td>
-  </tr>
-  <tr>
-    <td><b>last verified sighting</b></td>
-    <td><code>03:00 — terminal station, location unknown</code></td>
-  </tr>
-  <tr>
-    <td><b>critical weakness</b></td>
-    <td><code>the bell at 15:30 — responds predictably</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><b>⛔ DO NOT ENGAGE ⛔ APPROACH ONLY WITH EXTREME CAUTION ⛔</b></td>
-  </tr>
-</table>
-
-*operates strongest near the close, twice as relentless when the bid-ask spread whispers its old song.*
-
-</div>
-
-<p align="center"><sub>⚡────────────────────────────────────────────────────────────⚡</sub></p>
 
 ### ✦ if you touch it
 
