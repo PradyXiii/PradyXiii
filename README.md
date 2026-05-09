@@ -27,6 +27,16 @@
 
 <p align="center"><sub>┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ ☽ ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</sub></p>
 
+### ✦ the agents are thinking
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PradyXiii/PradyXiii/main/assets/thinking.svg" alt="agents thinking" />
+</p>
+
+<p align="center"><i>a partial list. the others have learned not to be observed.</i></p>
+
+<p align="center"><sub>· ░░░░░░░░░░░░░░░░░░░░░░░░░░░ ⊹ ░░░░░░░░░░░░░░░░░░░░░░░░░░░ ·</sub></p>
+
 ### ✦ the workshop
 
 > *some projects are louder when kept quiet.*
@@ -154,6 +164,149 @@ graph LR
 
 <p align="center"><sub>• ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ •</sub></p>
 
+### ✦ rules of engagement
+
+> *the desk has rules. they are not negotiable.*
+
+```yaml
+rule_001: never reveal the edge
+rule_002: the model is right until proven wrong, twice
+rule_003: every position has an exit; not every exit has a position
+rule_004: hedge before you need to
+rule_005: the market does not care about your conviction
+rule_006: ████████████████████████████   # classified
+rule_007: ████████████████████████████   # classified
+rule_008: in case of doubt, smaller
+rule_009: backtests lie loudly; live trades lie quietly
+rule_010: silence compounds faster than capital
+rule_011: ████████████████████████████   # eyes only
+rule_∞:   the desk closes when the desk decides
+```
+
+### ✦ currently consulting
+
+<p align="center">
+  <img src="https://img.shields.io/badge/oracle-arxiv.org%2Fq--fin-A41E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/oracle-the%20black--scholes%20equation-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/oracle-claude--opus--4.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle-the%20order%20book-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/oracle-%E2%88%9E%20backtest%20logs-4b0082?style=for-the-badge" />
+</p>
+
+### ✦ achievements
+
+| sigil | name | when |
+|:---:|---|:---:|
+| 🜲 | first profitable backtest | _year of the wolf_ |
+| 🜂 | first live deployment | _spring of the rooster_ |
+| 🜁 | first model that disagreed with me (and was right) | _summer of the dragon_ |
+| 🜄 | first 100% systematic week | _autumn of the snake_ |
+| ✦ | first time the kill switch fired by itself | `███` |
+| 𓂈 | first signal i didn't understand but trusted anyway | `███` |
+| ☽ | first night i didn't watch the screen | `███` |
+| ☾ | first time the desk made more than the trader | `███` |
+
+### ✦ invocation
+
+```python
+# the daemon awakens at 09:14:00 IST
+# it sleeps when the bell rings; it dreams in between
+# do not interrupt it. it remembers.
+
+from shadow_book   import Oracle, Gatekeeper, Hand, Mirror
+from greeks        import Δ, Γ, Θ, ν, ρ
+from regime        import detect, hedge, breathe
+
+oracle = Oracle(model="█████", confidence=0.███)
+gate   = Gatekeeper(max_drawdown=0.0███, kelly_cap=0.███)
+hand   = Hand(broker="████████████", slippage=0.0███)
+mirror = Mirror(reflects=True, lies=False)
+
+while market.open:
+    weather = detect.regime(market.tape)
+    signal  = oracle.read(market.tape, weather)
+    if gate.permits(signal, exposures=(Δ, Γ, Θ, ν, ρ)):
+        hand.execute(signal)
+        mirror.observe(signal)
+    sleep(market.next_tick)
+
+# the desk closes when the desk decides.
+```
+
+### ✦ the manifesto
+
+> *six principles. all earned the hard way.*
+
+1. **silence compounds** — every disclosed strategy decays toward parity
+2. **risk is real, return is hope** — size the first, pray the second
+3. **the model is the trader; you are the maintainer** — know the difference
+4. **drawdown is tuition** — pay it or stop trading
+5. **the market is a teacher who fails everyone eventually** — be early to the test
+6. **all edge is conditional** — the regime that fed you will starve you
+
+### ✦ the ledger
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**watching**
+
+- ████ ▲▼ across 4 timeframes
+- ███████ vol surface
+- the gap between bid and intent
+- the stories no one is telling
+- the regime that has not arrived yet
+- the model's second-guesses
+- the silence between ticks
+
+</td>
+<td valign="top" width="50%">
+
+**ignoring**
+
+- crypto twitter
+- youtube charlatans
+- the news cycle
+- backtests that look too good
+- the loudest voice in the room
+- anyone selling courses
+- my own conviction
+
+</td>
+</tr>
+</table>
+
+### ✦ the library
+
+> *what the desk reads when the market sleeps.*
+
+| status | tome | author |
+|:---:|---|---|
+| `read · re-read · re-read` | _Options, Futures, and Other Derivatives_ | Hull |
+| `read` | _Advances in Financial Machine Learning_ | López de Prado |
+| `read` | _Trading and Exchanges_ | Harris |
+| `studying` | _Volatility Trading_ | Sinclair |
+| `studying` | _Active Portfolio Management_ | Grinold & Kahn |
+| `archived` | _The Master and Margarita_ | Bulgakov |
+| `dog-eared` | _Tao Te Ching_ | Lao Tzu |
+| `███████` | `███████████████████████████` | `███████` |
+
+### ✦ the todo
+
+- [x] read the entire options pricing literature
+- [x] backtest 7+ years of data
+- [x] deploy live with real capital
+- [x] survive the first regime change
+- [x] build the kill switch (and trust it)
+- [ ] survive the second regime change
+- [ ] write the book ~~(no)~~
+- [ ] retire (definition unclear)
+- [ ] ████████████████████████
+- [ ] ████████████████████████
+
+<p align="center"><sub>┄ ☾ ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄ ☾ ┄</sub></p>
+
 ### ✦ tools of the trade
 
 <p align="center">
@@ -254,6 +407,13 @@ it always has.
 
 > the best strategy is the one you haven't told anyone about
 
+<details>
+<summary>😶 absolutely sure</summary>
+
+> okay. but you didn't hear it from me.
+
+</details>
+
 </details>
 
 </details>
@@ -267,6 +427,9 @@ the model dreams in volatility.
 backtests are fiction written by the past.
 every trade is a conversation with chaos.
 only the patient hear its answer.
+
+if you are reading this, you are already inside.
+welcome.
 -->
 
 ---
@@ -278,3 +441,5 @@ only the patient hear its answer.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b0082,100:1a0033&height=120&section=footer" />
 </p>
+
+<p align="center"><sub><i>you scrolled all the way down. that means something.</i></sub></p>
