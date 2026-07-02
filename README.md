@@ -41,8 +41,12 @@ Both run live on real capital, fully automated.
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PradyXiii&show_icons=true&hide_border=true&count_private=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff&icon_color=DC143C" />
-  <img src="https://streak-stats.demolab.com/?user=PradyXiii&hide_border=true&background=0a1a0a&ring=00C853&fire=DC143C&currStreakLabel=00C853&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="165" />
+  <img height="170" src="https://grs-pradyxiiis-projects.vercel.app/api?username=PradyXiii&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff&icon_color=DC143C" />
+  <img height="170" src="https://grs-pradyxiiis-projects.vercel.app/api/top-langs/?username=PradyXiii&layout=compact&count_private=true&hide_border=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PradyXiii&hide_border=true&background=0a1a0a&ring=00C853&fire=DC143C&currStreakLabel=00C853&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </p>
 
 <p align="center">
