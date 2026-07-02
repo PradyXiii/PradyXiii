@@ -42,11 +42,11 @@ Both run live on real capital, fully automated.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PradyXiii&show_icons=true&hide_border=true&count_private=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff&icon_color=DC143C" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PradyXiii&layout=compact&hide_border=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=PradyXiii&hide_border=true&background=0a1a0a&ring=00C853&fire=DC143C&currStreakLabel=00C853&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PradyXiii&hide_border=true&background=0a1a0a&ring=00C853&fire=DC143C&currStreakLabel=00C853&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PradyXiii&bg_color=0a1a0a&color=00C853&line=DC143C&point=ffffff&area=true&area_color=006400&hide_border=true&title_color=00C853" width="95%" />
 </p>
 
 <p align="center"><sub>last update: 2026-07-02</sub></p>
