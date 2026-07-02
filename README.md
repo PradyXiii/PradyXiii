@@ -17,17 +17,3 @@ loop. I favor quiet, durable edges over loud ones. Still learning, still buildin
 | 🟢 | **Crypto Trading Desk** | BTC & ETH · options | An LLM brain manages trades under hard caps |
 
 Both run live on real capital, fully automated.
-
-
-    classDef base fill:#0a1a0a,stroke:#00C853,stroke-width:2px,color:#fff
-    classDef brain fill:#4b0000,stroke:#DC143C,stroke-width:2px,color:#fff
-    classDef gate fill:#006400,stroke:#fff,stroke-width:2px,color:#fff
-    classDef alert fill:#8B0000,stroke:#fff,stroke-width:2px,color:#fff
-
-    class A,B,E,J,M base
-    class F brain
-    class I gate
-    class K alert
-```
-
-<p align="center"><sub>last update: 2026-07-02</sub></p>
