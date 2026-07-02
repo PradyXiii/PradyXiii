@@ -41,8 +41,8 @@ Both run live on real capital, fully automated.
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PradyXiii&show_icons=true&hide_border=true&count_private=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff&icon_color=DC143C" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyXiii&layout=compact&hide_border=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PradyXiii&show_icons=true&hide_border=true&count_private=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff&icon_color=DC143C" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PradyXiii&layout=compact&hide_border=true&bg_color=0a1a0a&title_color=00C853&text_color=ffffff" />
 </p>
 
 <p align="center">
