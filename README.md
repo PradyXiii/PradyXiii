@@ -13,8 +13,8 @@ loop. I favor quiet, durable edges over loud ones. Still learning, still buildin
 
 | | Desk | Market | What it does |
 |---|---|---|---|
-| 🔴 | **[Options Trading Desk](https://github.com/PradyXiii/dhan-trading)** | NIFTY & SENSEX · F&O | Rules-based, no forecasting |
-| 🟢 | **[Crypto Trading Desk](https://github.com/PradyXiii/delta-exchange-trading)** | BTC & ETH · options | An LLM brain manages trades under hard caps |
+| 🔴 | **[Options Trading Desk]** | NIFTY & SENSEX · F&O | Rules-based, no forecasting |
+| 🟢 | **[Crypto Trading Desk]** | BTC & ETH · options | An LLM brain manages trades under hard caps |
 
 Both run live on real capital, fully automated.
 
