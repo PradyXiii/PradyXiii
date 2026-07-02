@@ -18,22 +18,6 @@ loop. I favor quiet, durable edges over loud ones. Still learning, still buildin
 
 Both run live on real capital, fully automated.
 
-### The Loop
-
-```mermaid
-graph LR
-    A(["feed"]) --> B(["filter"])
-    B --> C{"gate"}
-    C -->|clean| E(["context"])
-    E --> F[["decide"]]
-    F --> G{signal?}
-    G -->|weak| H(["pass"])
-    G -->|strong| I{{"risk gate"}}
-    I -->|OK| J(["execute"])
-    I -->|breach| K(["kill-switch"])
-    J --> M(["journal"])
-    M --> A
-    H --> A
 
     classDef base fill:#0a1a0a,stroke:#00C853,stroke-width:2px,color:#fff
     classDef brain fill:#4b0000,stroke:#DC143C,stroke-width:2px,color:#fff
